@@ -18,4 +18,4 @@ timestamp,transmitting,frequency,symbolrate,channel_1,channel_2,channel_3,timest
 2019-10-24 06:00:00,1,137.9,72000,64,65,68,d,"switch between 14:40 and 12:20"
 2019-11-13 13:14:30,1,137.9,72000,64,65,66,s,
 2019-11-19 09:00:00,1,137.9,72000,64,65,68,d,"switch between 04:45 and 12:30"
-2019-12-18 01:09:00,0,137.9,72000,64,65,68,m,"Hit by space debris/(micro-)meteoroid. Last successful obs w/ data at 2019-12-17 15:35:00 (https://network.satnogs.org/observations/1386276/). Last transmission at 2019-12-17 22:18:05 (https://network.satnogs.org/observations/1391621/)"
+2019-12-18 01:09:00,0,137.9,72000,64,65,68,m,"Hit by space debris/(micro-)meteoroid. Last successful obs w/ data at 2019-12-17 15:35:00 (https://network.satnogs.org/observations/1386276/). Last transmission at 2019-12-17 22:18:05 (https://network.satnogs.org/observations/1391621/). No more transmissions on VHF."
