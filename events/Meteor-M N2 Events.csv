@@ -6,3 +6,5 @@ timestamp,transmitting,frequency,symbolrate,channel_1,channel_2,channel_3,timest
 2019-11-12 06:00:00,1,137.1,72000,64,65,68,d,no accurate time. Before 08:50 UTC
 2019-11-12 06:00:00,1,137.1,72000,64,65,68,d,no accurate time. Before 08:50 UTC
 2020-02-05 10:45:00,0,137.1,72000,64,65,68,h,no accurate time. Around 10-12 UTC. Apparently M-N2 is spinning again.
+2020-02-07 00:00:00,1,137.1,72000,64,65,66,d,can't verify an accurate time, apparently switched channels too
+2020-02-17 00:00:00,1,137.1,72000,64,65,68,d,can't verify an accurate time
